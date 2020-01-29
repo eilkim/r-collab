@@ -56,7 +56,6 @@ ggplot(data = salmon_us_annual, aes(x = year,
 
 ```
 
-```{r}
+![](https://octodex.github.com/images/labtocat.png)
 
-```
 
